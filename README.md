@@ -36,8 +36,11 @@ This program couldn't run without the following test events:
 
 Bot without Lambda function: 
 
+![AWS_Mod15_wo_Sagemaker_AdobeExpress](https://user-images.githubusercontent.com/107497500/192194479-8632f573-ff1e-4b83-8ed9-00bc2df19ac5.gif)
 
 Bot with Lambda function:
+
+![w_Lambda_AdobeExpress](https://user-images.githubusercontent.com/107497500/192194488-a1492004-936c-418f-a4f2-e75fdc9e0f3c.gif)
 
 
 ---
